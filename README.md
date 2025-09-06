@@ -35,5 +35,6 @@ This repo can help beginners understand **Java concepts** with **simple explanat
 ## 📖 How to Use
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/java-learning.git](https://github.com/tufail101/Java-notes.git)
+   git clone https://github.com/tufail101/Java-notes.git
+
 
