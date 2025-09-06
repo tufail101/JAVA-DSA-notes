@@ -1,0 +1,6 @@
+Types:
+    Assingment : =
+    Add and assing : +=
+    Sub and assing : -=
+    Div and assing : /=
+    Mul and assing : *=

@@ -1,0 +1,7 @@
+Types:
+    Logical AND(&&):
+        True if both expression give true;
+    Logical OR(||):
+        True If any one expression is true;
+    Logical NOT(!):
+        Compliment the True to False and False to True

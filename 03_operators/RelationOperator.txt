@@ -1,0 +1,14 @@
+Types :
+    Double equalto (==):
+        example A = 5; B = 5; A == B; ture;
+    Less Than(<):
+        example A = 3 ,B = 2; A < B; false;
+    Greater Than (>):
+        example A = 3 ,B = 2; A > B; true;
+    Less Than Equalto (<=):
+        example A = 3 ,B =5; A <= B; true;
+    Greater Than Equalto (>=):
+        example A = 3 ,b = 5; A >=5; false;
+        example A = 3 ,b = 3; A>=B; true;
+    Not Equalto(!=):
+        example A = 5; B = 5; A != B; false;

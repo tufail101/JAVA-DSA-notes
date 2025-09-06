@@ -1,0 +1,5 @@
+Arithmatic Operators(Binary/Unary/Ternary)
+Relational Operators
+Logical Operators
+Bitwise Operators
+Assignment Operators

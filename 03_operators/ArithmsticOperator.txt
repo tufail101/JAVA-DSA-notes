@@ -1,0 +1,18 @@
+Types 
+    Binary:
+        Addition {+} :
+            example : A = 5 , B = 5 ; A + B = 10;
+        Substraction{-} :
+            example A = 5 ,B = 4; A - B = 1;
+        Multiply {*} :
+            example : A = 2 , B = 3; A * B = 6;
+        Division{/} :
+            example : A = 5 ,B = 2; A / B = 2;
+        Modulo{%} :
+            example : A = 5 ,B = 2; A % B = 1;
+    
+    Unary :
+        Increment{++} :
+            example : A = 5; A++ ; A = 6;
+        Dicrement{--};
+            example : A = 5; A--; A = 4;
