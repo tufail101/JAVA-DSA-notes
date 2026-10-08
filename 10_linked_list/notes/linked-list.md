@@ -27,6 +27,9 @@ Every node has two components: data and a pointer (or reference) to the next nod
 3. **Search**: Finding a specific node in the linked list.
 4. **Traversal**: Visiting each node in the linked list in a sequential manner.
 
+//TODO: Add diagrams for linked list operations and types.
+//TODO: Before example try by yourself to implement a linked list in your preferred programming language.
+
 ### Implementation of a Singly Linked List in Java
 ```java
 class Node {
